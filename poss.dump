@@ -1,0 +1,2667 @@
+(lp1
+(iparse2
+Poslanec
+p2
+(dp3
+S'klub'
+p4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp5
+sS'k'
+I4
+sS'jmeno'
+p6
+VMarek Benda
+p7
+sba(iparse2
+Poslanec
+p8
+(dp9
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp10
+sS'k'
+I68
+sg6
+VVáclav Klu\u010dka
+p11
+sba(iparse2
+Poslanec
+p12
+(dp13
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp14
+sS'k'
+I111
+sg6
+VPetr Ne\u010das
+p15
+sba(iparse2
+Poslanec
+p16
+(dp17
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp18
+sS'k'
+I122
+sg6
+VHana Orgoníková
+p19
+sba(iparse2
+Poslanec
+p20
+(dp21
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp22
+sS'k'
+I211
+sg6
+VMilada Emmerová
+p23
+sba(iparse2
+Poslanec
+p24
+(dp25
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp26
+sS'k'
+I216
+sg6
+VPetr Hulinský
+p27
+sba(iparse2
+Poslanec
+p28
+(dp29
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp30
+sS'k'
+I235
+sg6
+VLadislav Skopal
+p31
+sba(iparse2
+Poslanec
+p32
+(dp33
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp34
+sS'k'
+I237
+sg6
+VBohuslav Sobotka
+p35
+sba(iparse2
+Poslanec
+p36
+(dp37
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp38
+sS'k'
+I239
+sg6
+VZden\u011bk \u0160kromach
+p39
+sba(iparse2
+Poslanec
+p40
+(dp41
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp42
+sS'k'
+I252
+sg6
+VLubomír Zaorálek
+p43
+sba(iparse2
+Poslanec
+p44
+(dp45
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp46
+sS'k'
+I261
+sg6
+VZde\u0148ka Horníková
+p47
+sba(iparse2
+Poslanec
+p48
+(dp49
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp50
+sS'k'
+I269
+sg6
+VJi\u0159í Pape\u017e
+p51
+sba(iparse2
+Poslanec
+p52
+(dp53
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp54
+sS'k'
+I273
+sg6
+VJaroslav Plachý
+p55
+sba(iparse2
+Poslanec
+p56
+(dp57
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp58
+sS'k'
+I280
+sg6
+VJan Vidím
+p59
+sba(iparse2
+Poslanec
+p60
+(dp61
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp62
+sS'k'
+I303
+sg6
+VVojt\u011bch Filip
+p63
+sba(iparse2
+Poslanec
+p64
+(dp65
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp66
+sS'k'
+I305
+sg6
+VMiroslav Grebení\u010dek
+p67
+sba(iparse2
+Poslanec
+p68
+(dp69
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp70
+sS'k'
+I309
+sg6
+VPavel Ková\u010dik
+p71
+sba(iparse2
+Poslanec
+p72
+(dp73
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp74
+sS'k'
+I312
+sg6
+VZuzka Bebarová-Rujbrová
+p75
+sba(iparse2
+Poslanec
+p76
+(dp77
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp78
+sS'k'
+I340
+sg6
+VVlasta Parkanová
+p79
+sba(iparse2
+Poslanec
+p80
+(dp81
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp82
+sS'k'
+I345
+sg6
+VWalter Barto\u0161
+p83
+sba(iparse2
+Poslanec
+p84
+(dp85
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp86
+sS'k'
+I346
+sg6
+VPetr Bendl
+p87
+sba(iparse2
+Poslanec
+p88
+(dp89
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp90
+sS'k'
+I354
+sg6
+VKarel \u010cerný
+p91
+sba(iparse2
+Poslanec
+p92
+(dp93
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp94
+sS'k'
+I356
+sg6
+VMichal Doktor
+p95
+sba(iparse2
+Poslanec
+p96
+(dp97
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp98
+sS'k'
+I366
+sg6
+VPavel Hojda
+p99
+sba(iparse2
+Poslanec
+p100
+(dp101
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp102
+sS'k'
+I377
+sg6
+VMiroslav Kalousek
+p103
+sba(iparse2
+Poslanec
+p104
+(dp105
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp106
+sS'k'
+I386
+sg6
+VStanislav K\u0159e\u010dek
+p107
+sba(iparse2
+Poslanec
+p108
+(dp109
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp110
+sS'k'
+I392
+sg6
+VJaroslav Lobkowicz
+p111
+sba(iparse2
+Poslanec
+p112
+(dp113
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp114
+sS'k'
+I401
+sg6
+VMiroslava N\u011bmcová
+p115
+sba(iparse2
+Poslanec
+p116
+(dp117
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp118
+sS'k'
+I410
+sg6
+VB\u0159etislav Petr
+p119
+sba(iparse2
+Poslanec
+p120
+(dp121
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp122
+sS'k'
+I415
+sg6
+VPavel Suchánek
+p123
+sba(iparse2
+Poslanec
+p124
+(dp125
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp126
+sS'k'
+I422
+sg6
+VMilan Urban
+p127
+sba(iparse2
+Poslanec
+p128
+(dp129
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp130
+sS'k'
+I1296
+sg6
+VPetr Gandalovi\u010d
+p131
+sba(iparse2
+Poslanec
+p132
+(dp133
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp134
+sS'k'
+I4778
+sg6
+VStanislav Grospi\u010d
+p135
+sba(iparse2
+Poslanec
+p136
+(dp137
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp138
+sS'k'
+I5255
+sg6
+VMiroslav Svoboda
+p139
+sba(iparse2
+Poslanec
+p140
+(dp141
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp142
+sS'k'
+I5261
+sg6
+VJi\u0159í Dolej\u0161
+p143
+sba(iparse2
+Poslanec
+p144
+(dp145
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp146
+sS'k'
+I5268
+sg6
+VMiloslava Vostrá
+p147
+sba(iparse2
+Poslanec
+p148
+(dp149
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp150
+sS'k'
+I5270
+sg6
+VPetr Braný
+p151
+sba(iparse2
+Poslanec
+p152
+(dp153
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp154
+sS'k'
+I5272
+sg6
+VVáclav Votava
+p155
+sba(iparse2
+Poslanec
+p156
+(dp157
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp158
+sS'k'
+I5273
+sg6
+VJi\u0159í Pospí\u0161il
+p159
+sba(iparse2
+Poslanec
+p160
+(dp161
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp162
+sS'k'
+I5274
+sg6
+VIvana Levá
+p163
+sba(iparse2
+Poslanec
+p164
+(dp165
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp166
+sS'k'
+I5279
+sg6
+VJaroslav Krákora
+p167
+sba(iparse2
+Poslanec
+p168
+(dp169
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp170
+sS'k'
+I5282
+sg6
+VJosef \u0160enfeld
+p171
+sba(iparse2
+Poslanec
+p172
+(dp173
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp174
+sS'k'
+I5290
+sg6
+VSo\u0148a Marková
+p175
+sba(iparse2
+Poslanec
+p176
+(dp177
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp178
+sS'k'
+I5292
+sg6
+VMiroslav Vá\u0148a
+p179
+sba(iparse2
+Poslanec
+p180
+(dp181
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp182
+sS'k'
+I5296
+sg6
+VMarie Rusová
+p183
+sba(iparse2
+Poslanec
+p184
+(dp185
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp186
+sS'k'
+I5297
+sg6
+VMichal Ha\u0161ek
+p187
+sba(iparse2
+Poslanec
+p188
+(dp189
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp190
+sS'k'
+I5300
+sg6
+VVáclav Mencl
+p191
+sba(iparse2
+Poslanec
+p192
+(dp193
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp194
+sS'k'
+I5301
+sg6
+VDavid \u0160eich
+p195
+sba(iparse2
+Poslanec
+p196
+(dp197
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp198
+sS'k'
+I5307
+sg6
+VAlexander \u010cerný
+p199
+sba(iparse2
+Poslanec
+p200
+(dp201
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp202
+sS'k'
+I5310
+sg6
+VAntonín Se\u010fa
+p203
+sba(iparse2
+Poslanec
+p204
+(dp205
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp206
+sS'k'
+I5311
+sg6
+VJosef Smýkal
+p207
+sba(iparse2
+Poslanec
+p208
+(dp209
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp210
+sS'k'
+I5313
+sg6
+VVladimír Koní\u010dek
+p211
+sba(iparse2
+Poslanec
+p212
+(dp213
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp214
+sS'k'
+I5317
+sg6
+VAlfréd Michalík
+p215
+sba(iparse2
+Poslanec
+p216
+(dp217
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp218
+sS'k'
+I5321
+sg6
+VKate\u0159ina Kone\u010dná
+p219
+sba(iparse2
+Poslanec
+p220
+(dp221
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp222
+sS'k'
+I5322
+sg6
+VMiroslav Opálka
+p223
+sba(iparse2
+Poslanec
+p224
+(dp225
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp226
+sS'k'
+I5342
+sg6
+VRobin Böhnisch
+p227
+sba(iparse2
+Poslanec
+p228
+(dp229
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp230
+sS'k'
+I5376
+sg6
+VPetr Tlucho\u0159
+p231
+sba(iparse2
+Poslanec
+p232
+(dp233
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp234
+sS'k'
+I5379
+sg6
+VJan Bauer
+p235
+sba(iparse2
+Poslanec
+p236
+(dp237
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp238
+sS'k'
+I5383
+sg6
+VFranti\u0161ek Bublan
+p239
+sba(iparse2
+Poslanec
+p240
+(dp241
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp242
+sS'k'
+I5384
+sg6
+VJi\u0159í Paroubek
+p243
+sba(iparse2
+Poslanec
+p244
+(dp245
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp246
+sS'k'
+I5402
+sg6
+VVít\u011bzslav Jandák
+p247
+sba(iparse2
+Poslanec
+p248
+(dp249
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp250
+sS'k'
+I5406
+sg6
+VDavid Rath
+p251
+sba(iparse2
+Poslanec
+p252
+(dp253
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp254
+sS'k'
+I5415
+sg6
+VCyril Zapletal
+p255
+sba(iparse2
+Poslanec
+p256
+(dp257
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp258
+sS'k'
+I5433
+sg6
+VJi\u0159í Koskuba
+p259
+sba(iparse2
+Poslanec
+p260
+(dp261
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp262
+sS'k'
+I5437
+sg6
+VMarek \u0160najdr
+p263
+sba(iparse2
+Poslanec
+p264
+(dp265
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp266
+sS'k'
+I5444
+sg6
+VJan Babor
+p267
+sba(iparse2
+Poslanec
+p268
+(dp269
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp270
+sS'k'
+I5445
+sg6
+VZden\u011bk Bohá\u010d
+p271
+sba(iparse2
+Poslanec
+p272
+(dp273
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp274
+sS'k'
+I5447
+sg6
+VVlasta Bohdalová
+p275
+sba(iparse2
+Poslanec
+p276
+(dp277
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp278
+sS'k'
+I5453
+sg6
+VFranti\u0161ek D\u011bdi\u010d
+p279
+sba(iparse2
+Poslanec
+p280
+(dp281
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp282
+sS'k'
+I5456
+sg6
+VRichard Dolej\u0161
+p283
+sba(iparse2
+Poslanec
+p284
+(dp285
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp286
+sS'k'
+I5459
+sg6
+VRadim Fiala
+p287
+sba(iparse2
+Poslanec
+p288
+(dp289
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp290
+sS'k'
+I5460
+sg6
+VDana Filipi
+p291
+sba(iparse2
+Poslanec
+p292
+(dp293
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp294
+sS'k'
+I5461
+sg6
+VMilada Halíková
+p295
+sba(iparse2
+Poslanec
+p296
+(dp297
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp298
+sS'k'
+I5462
+sg6
+VJan Hamá\u010dek
+p299
+sba(iparse2
+Poslanec
+p300
+(dp301
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp302
+sS'k'
+I5472
+sg6
+VJi\u0159í Krátký
+p303
+sba(iparse2
+Poslanec
+p304
+(dp305
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp306
+sS'k'
+I5473
+sg6
+VJaroslav Krupka
+p307
+sba(iparse2
+Poslanec
+p308
+(dp309
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp310
+sS'k'
+I5475
+sg6
+VJan Látka
+p311
+sba(iparse2
+Poslanec
+p312
+(dp313
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp314
+sS'k'
+I5476
+sg6
+VFranti\u0161ek Laudát
+p315
+sba(iparse2
+Poslanec
+p316
+(dp317
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp318
+sS'k'
+I5477
+sg6
+VVladimíra Lesenská
+p319
+sba(iparse2
+Poslanec
+p320
+(dp321
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp322
+sS'k'
+I5485
+sg6
+VFranti\u0161ek Novosad
+p323
+sba(iparse2
+Poslanec
+p324
+(dp325
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp326
+sS'k'
+I5486
+sg6
+VIvan Ohlídal
+p327
+sba(iparse2
+Poslanec
+p328
+(dp329
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp330
+sS'k'
+I5487
+sg6
+VJi\u0159í Petr\u016f
+p331
+sba(iparse2
+Poslanec
+p332
+(dp333
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp334
+sS'k'
+I5490
+sg6
+VPavel Ploc
+p335
+sba(iparse2
+Poslanec
+p336
+(dp337
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp338
+sS'k'
+I5495
+sg6
+VAle\u0161 Rádl
+p339
+sba(iparse2
+Poslanec
+p340
+(dp341
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp342
+sS'k'
+I5501
+sg6
+VFranti\u0161ek Sivera
+p343
+sba(iparse2
+Poslanec
+p344
+(dp345
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp346
+sS'k'
+I5505
+sg6
+VPavel Svoboda
+p347
+sba(iparse2
+Poslanec
+p348
+(dp349
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp350
+sS'k'
+I5506
+sg6
+VKarel \u0160idlo
+p351
+sba(iparse2
+Poslanec
+p352
+(dp353
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp354
+sS'k'
+I5507
+sg6
+VLadislav \u0160incl
+p355
+sba(iparse2
+Poslanec
+p356
+(dp357
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp358
+sS'k'
+I5512
+sg6
+VBoris \u0160\u0165astný
+p359
+sba(iparse2
+Poslanec
+p360
+(dp361
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp362
+sS'k'
+I5513
+sg6
+VJeroným Tejc
+p363
+sba(iparse2
+Poslanec
+p364
+(dp365
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp366
+sS'k'
+I5516
+sg6
+VTomá\u0161 Úlehla
+p367
+sba(iparse2
+Poslanec
+p368
+(dp369
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp370
+sS'k'
+I5520
+sg6
+VVladislav Vilímec
+p371
+sba(iparse2
+Poslanec
+p372
+(dp373
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp374
+sS'k'
+I5552
+sg6
+VMartin Pecina
+p375
+sba(iparse2
+Poslanec
+p376
+(dp377
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp378
+sS'k'
+I5558
+sg6
+VKarel Schwarzenberg
+p379
+sba(iparse2
+Poslanec
+p380
+(dp381
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp382
+sS'k'
+I5766
+sg6
+VMiroslav Jeník
+p383
+sba(iparse2
+Poslanec
+p384
+(dp385
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp386
+sS'k'
+I5768
+sg6
+VVojt\u011bch Adam
+p387
+sba(iparse2
+Poslanec
+p388
+(dp389
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp390
+sS'k'
+I5819
+sg6
+VJan Husák
+p391
+sba(iparse2
+Poslanec
+p392
+(dp393
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp394
+sS'k'
+I5859
+sg6
+VJi\u0159í \u0160ulc
+p395
+sba(iparse2
+Poslanec
+p396
+(dp397
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp398
+sS'k'
+I5866
+sg6
+VLadislav Velebný
+p399
+sba(iparse2
+Poslanec
+p400
+(dp401
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp402
+sS'k'
+I5890
+sg6
+VLenka Andrýsová
+p403
+sba(iparse2
+Poslanec
+p404
+(dp405
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp406
+sS'k'
+I5891
+sg6
+VPavel Antonín
+p407
+sba(iparse2
+Poslanec
+p408
+(dp409
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp410
+sS'k'
+I5892
+sg6
+VMichal Babák
+p411
+sba(iparse2
+Poslanec
+p412
+(dp413
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp414
+sS'k'
+I5893
+sg6
+VVít Bárta
+p415
+sba(iparse2
+Poslanec
+p416
+(dp417
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp418
+sS'k'
+I5894
+sg6
+VVáclav Ba\u0161tý\u0159
+p419
+sba(iparse2
+Poslanec
+p420
+(dp421
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp422
+sS'k'
+I5895
+sg6
+VPavel Bém
+p423
+sba(iparse2
+Poslanec
+p424
+(dp425
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp426
+sS'k'
+I5896
+sg6
+VJi\u0159í Besser
+p427
+sba(iparse2
+Poslanec
+p428
+(dp429
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp430
+sS'k'
+I5897
+sg6
+VZden\u011bk Bezecný
+p431
+sba(iparse2
+Poslanec
+p432
+(dp433
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp434
+sS'k'
+I5898
+sg6
+VLudmila Bubeníková
+p435
+sba(iparse2
+Poslanec
+p436
+(dp437
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp438
+sS'k'
+I5899
+sg6
+VJan Bure\u0161
+p439
+sba(iparse2
+Poslanec
+p440
+(dp441
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp442
+sS'k'
+I5900
+sg6
+VVáclav Cempírek
+p443
+sba(iparse2
+Poslanec
+p444
+(dp445
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp446
+sS'k'
+I5901
+sg6
+VJosef Cogan
+p447
+sba(iparse2
+Poslanec
+p448
+(dp449
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp450
+sS'k'
+I5902
+sg6
+VJan \u010cechlovský
+p451
+sba(iparse2
+Poslanec
+p452
+(dp453
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp454
+sS'k'
+I5903
+sg6
+VJana \u010cernochová
+p455
+sba(iparse2
+Poslanec
+p456
+(dp457
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp458
+sS'k'
+I5904
+sg6
+VJosef Dobe\u0161
+p459
+sba(iparse2
+Poslanec
+p460
+(dp461
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp462
+sS'k'
+I5905
+sg6
+VJaromír Drábek
+p463
+sba(iparse2
+Poslanec
+p464
+(dp465
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp466
+sS'k'
+I5906
+sg6
+VJana Drastichová
+p467
+sba(iparse2
+Poslanec
+p468
+(dp469
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp470
+sS'k'
+I5907
+sg6
+VPavel Drobil
+p471
+sba(iparse2
+Poslanec
+p472
+(dp473
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp474
+sS'k'
+I5908
+sg6
+VJaroslav E\u010dek
+p475
+sba(iparse2
+Poslanec
+p476
+(dp477
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp478
+sS'k'
+I5909
+sg6
+VJan Farský
+p479
+sba(iparse2
+Poslanec
+p480
+(dp481
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp482
+sS'k'
+I5910
+sg6
+VJan Florián
+p483
+sba(iparse2
+Poslanec
+p484
+(dp485
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp486
+sS'k'
+I5911
+sg6
+VJaroslav Foldyna
+p487
+sba(iparse2
+Poslanec
+p488
+(dp489
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp490
+sS'k'
+I5912
+sg6
+V\u0160t\u011bpánka Fra\u0148ková
+p491
+sba(iparse2
+Poslanec
+p492
+(dp493
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp494
+sS'k'
+I5913
+sg6
+VIvan Fuksa
+p495
+sba(iparse2
+Poslanec
+p496
+(dp497
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp498
+sS'k'
+I5914
+sg6
+VPetr Gazdík
+p499
+sba(iparse2
+Poslanec
+p500
+(dp501
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp502
+sS'k'
+I5915
+sg6
+VMartin Gregora
+p503
+sba(iparse2
+Poslanec
+p504
+(dp505
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp506
+sS'k'
+I5916
+sg6
+VAlena Hanáková
+p507
+sba(iparse2
+Poslanec
+p508
+(dp509
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp510
+sS'k'
+I5917
+sg6
+VLeo\u0161 Heger
+p511
+sba(iparse2
+Poslanec
+p512
+(dp513
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp514
+sS'k'
+I5918
+sg6
+VPavel Holík
+p515
+sba(iparse2
+Poslanec
+p516
+(dp517
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp518
+sS'k'
+I5919
+sg6
+VVáclav Horá\u010dek
+p519
+sba(iparse2
+Poslanec
+p520
+(dp521
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp522
+sS'k'
+I5920
+sg6
+VGabriela Hubá\u010dková
+p523
+sba(iparse2
+Poslanec
+p524
+(dp525
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp526
+sS'k'
+I5921
+sg6
+VStanislav Huml
+p527
+sba(iparse2
+Poslanec
+p528
+(dp529
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp530
+sS'k'
+I5922
+sg6
+VJitka Chalánková
+p531
+sba(iparse2
+Poslanec
+p532
+(dp533
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp534
+sS'k'
+I5923
+sg6
+VOtto Chaloupka
+p535
+sba(iparse2
+Poslanec
+p536
+(dp537
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp538
+sS'k'
+I5924
+sg6
+VTomá\u0161 Chalupa
+p539
+sba(iparse2
+Poslanec
+p540
+(dp541
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp542
+sS'k'
+I5925
+sg6
+VRudolf Chlad
+p543
+sba(iparse2
+Poslanec
+p544
+(dp545
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp546
+sS'k'
+I5926
+sg6
+VJan Chvojka
+p547
+sba(iparse2
+Poslanec
+p548
+(dp549
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp550
+sS'k'
+I5927
+sg6
+VPetr Jalowiczor
+p551
+sba(iparse2
+Poslanec
+p552
+(dp553
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp554
+sS'k'
+I5928
+sg6
+VMichal Janek
+p555
+sba(iparse2
+Poslanec
+p556
+(dp557
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp558
+sS'k'
+I5929
+sg6
+VLud\u011bk Jeni\u0161ta
+p559
+sba(iparse2
+Poslanec
+p560
+(dp561
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp562
+sS'k'
+I5930
+sg6
+VLadislav Jirk\u016f
+p563
+sba(iparse2
+Poslanec
+p564
+(dp565
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp566
+sS'k'
+I5931
+sg6
+VRadim Jirout
+p567
+sba(iparse2
+Poslanec
+p568
+(dp569
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp570
+sS'k'
+I5932
+sg6
+VRadek John
+p571
+sba(iparse2
+Poslanec
+p572
+(dp573
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp574
+sS'k'
+I5933
+sg6
+VDavid Kádner
+p575
+sba(iparse2
+Poslanec
+p576
+(dp577
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp578
+sS'k'
+I5934
+sg6
+VJan Klán
+p579
+sba(iparse2
+Poslanec
+p580
+(dp581
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp582
+sS'k'
+I5935
+sg6
+VKate\u0159ina Klasnová
+p583
+sba(iparse2
+Poslanec
+p584
+(dp585
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp586
+sS'k'
+I5936
+sg6
+VKristýna Ko\u010dí
+p587
+sba(iparse2
+Poslanec
+p588
+(dp589
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp590
+sS'k'
+I5937
+sg6
+VLenka Kohoutová
+p591
+sba(iparse2
+Poslanec
+p592
+(dp593
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp594
+sS'k'
+I5938
+sg6
+VKv\u011bta Matu\u0161ovská
+p595
+sba(iparse2
+Poslanec
+p596
+(dp597
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp598
+sS'k'
+I5939
+sg6
+VDaniel Korte
+p599
+sba(iparse2
+Poslanec
+p600
+(dp601
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp602
+sS'k'
+I5940
+sg6
+VRom Kost\u0159ica
+p603
+sba(iparse2
+Poslanec
+p604
+(dp605
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp606
+sS'k'
+I5941
+sg6
+VPatricie Kotalíková
+p607
+sba(iparse2
+Poslanec
+p608
+(dp609
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp610
+sS'k'
+I5942
+sg6
+VVáclav Kubata
+p611
+sba(iparse2
+Poslanec
+p612
+(dp613
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp614
+sS'k'
+I5943
+sg6
+VHelena Lang\u0161ádlová
+p615
+sba(iparse2
+Poslanec
+p616
+(dp617
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp618
+sS'k'
+I5944
+sg6
+VPavol Luk\u0161a
+p619
+sba(iparse2
+Poslanec
+p620
+(dp621
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp622
+sS'k'
+I5945
+sg6
+VJaroslav Martin\u016f
+p623
+sba(iparse2
+Poslanec
+p624
+(dp625
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp626
+sS'k'
+I5946
+sg6
+VDagmar Navrátilová
+p627
+sba(iparse2
+Poslanec
+p628
+(dp629
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp630
+sS'k'
+I5947
+sg6
+VMarie Nedv\u011bdová
+p631
+sba(iparse2
+Poslanec
+p632
+(dp633
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp634
+sS'k'
+I5948
+sg6
+VJosef Nekl
+p635
+sba(iparse2
+Poslanec
+p636
+(dp637
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp638
+sS'k'
+I5949
+sg6
+VVít N\u011bme\u010dek
+p639
+sba(iparse2
+Poslanec
+p640
+(dp641
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp642
+sS'k'
+I5950
+sg6
+VVáclav Neubauer
+p643
+sba(iparse2
+Poslanec
+p644
+(dp645
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp646
+sS'k'
+I5951
+sg6
+VJi\u0159í Oliva
+p647
+sba(iparse2
+Poslanec
+p648
+(dp649
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp650
+sS'k'
+I5952
+sg6
+VViktor Paggio
+p651
+sba(iparse2
+Poslanec
+p652
+(dp653
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp654
+sS'k'
+I5953
+sg6
+VJan Pajer
+p655
+sba(iparse2
+Poslanec
+p656
+(dp657
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp658
+sS'k'
+I5954
+sg6
+VKarolína Peake
+p659
+sba(iparse2
+Poslanec
+p660
+(dp661
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp662
+sS'k'
+I5955
+sg6
+VGabriela Pecková
+p663
+sba(iparse2
+Poslanec
+p664
+(dp665
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp666
+sS'k'
+I5956
+sg6
+VStanislav Pol\u010dák
+p667
+sba(iparse2
+Poslanec
+p668
+(dp669
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp670
+sS'k'
+I5957
+sg6
+VAnna Putnová
+p671
+sba(iparse2
+Poslanec
+p672
+(dp673
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp674
+sS'k'
+I5958
+sg6
+VJana Kaslová
+p675
+sba(iparse2
+Poslanec
+p676
+(dp677
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp678
+sS'k'
+I5959
+sg6
+VAle\u0161 Rozto\u010dil
+p679
+sba(iparse2
+Poslanec
+p680
+(dp681
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp682
+sS'k'
+I5960
+sg6
+VAdam Rykala
+p683
+sba(iparse2
+Poslanec
+p684
+(dp685
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp686
+sS'k'
+I5961
+sg6
+VIvana \u0158ápková
+p687
+sba(iparse2
+Poslanec
+p688
+(dp689
+g4
+(S'866'
+S'Poslaneck\xc3\xbd klub Komunistick\xc3\xa9 strany \xc4\x8cech a&nbsp;Moravy'
+tp690
+sS'k'
+I5962
+sg6
+VMarta Semelová
+p691
+sba(iparse2
+Poslanec
+p692
+(dp693
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp694
+sS'k'
+I5963
+sg6
+VJaroslava Schejbalová
+p695
+sba(iparse2
+Poslanec
+p696
+(dp697
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp698
+sS'k'
+I5964
+sg6
+VJi\u0159í Skalický
+p699
+sba(iparse2
+Poslanec
+p700
+(dp701
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp702
+sS'k'
+I5965
+sg6
+VRoman Sklenák
+p703
+sba(iparse2
+Poslanec
+p704
+(dp705
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp706
+sS'k'
+I5966
+sg6
+VPetr Skokan
+p707
+sba(iparse2
+Poslanec
+p708
+(dp709
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp710
+sS'k'
+I5967
+sg6
+VJan Smutný
+p711
+sba(iparse2
+Poslanec
+p712
+(dp713
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp714
+sS'k'
+I5968
+sg6
+VPavel Stan\u011bk
+p715
+sba(iparse2
+Poslanec
+p716
+(dp717
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp718
+sS'k'
+I5969
+sg6
+VZbyn\u011bk Stanjura
+p719
+sba(iparse2
+Poslanec
+p720
+(dp721
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp722
+sS'k'
+I5970
+sg6
+VJana Suchá
+p723
+sba(iparse2
+Poslanec
+p724
+(dp725
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp726
+sS'k'
+I5971
+sg6
+VIgor Svoják
+p727
+sba(iparse2
+Poslanec
+p728
+(dp729
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp730
+sS'k'
+I5972
+sg6
+VBo\u0159ivoj \u0160arapatka
+p731
+sba(iparse2
+Poslanec
+p732
+(dp733
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp734
+sS'k'
+I5973
+sg6
+VJaroslav \u0160kárka
+p735
+sba(iparse2
+Poslanec
+p736
+(dp737
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp738
+sS'k'
+I5974
+sg6
+VJi\u0159í \u0160légr
+p739
+sba(iparse2
+Poslanec
+p740
+(dp741
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp742
+sS'k'
+I5975
+sg6
+VJi\u0159í \u0160t\u011btina
+p743
+sba(iparse2
+Poslanec
+p744
+(dp745
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp746
+sS'k'
+I5976
+sg6
+VMilan \u0160\u0165oví\u010dek
+p747
+sba(iparse2
+Poslanec
+p748
+(dp749
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp750
+sS'k'
+I5977
+sg6
+VJosef Tanco\u0161
+p751
+sba(iparse2
+Poslanec
+p752
+(dp753
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp754
+sS'k'
+I5978
+sg6
+VMartin Vacek
+p755
+sba(iparse2
+Poslanec
+p756
+(dp757
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp758
+sS'k'
+I5979
+sg6
+VDana Váhalová
+p759
+sba(iparse2
+Poslanec
+p760
+(dp761
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp762
+sS'k'
+I5980
+sg6
+VRoman Vá\u0148a
+p763
+sba(iparse2
+Poslanec
+p764
+(dp765
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp766
+sS'k'
+I5981
+sg6
+VJaroslav Vandas
+p767
+sba(iparse2
+Poslanec
+p768
+(dp769
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp770
+sS'k'
+I5982
+sg6
+VDavid Vodrá\u017eka
+p771
+sba(iparse2
+Poslanec
+p772
+(dp773
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp774
+sS'k'
+I5983
+sg6
+VRadim Vyslou\u017eil
+p775
+sba(iparse2
+Poslanec
+p776
+(dp777
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp778
+sS'k'
+I5984
+sg6
+VIvana Weberová
+p779
+sba(iparse2
+Poslanec
+p780
+(dp781
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp782
+sS'k'
+I5985
+sg6
+VJaroslava Wenigerová
+p783
+sba(iparse2
+Poslanec
+p784
+(dp785
+g4
+(S'865'
+S'Poslaneck\xc3\xbd klub TOP 09 a&nbsp;Starostov\xc3\xa9'
+tp786
+sS'k'
+I5986
+sg6
+VRenáta Witoszová
+p787
+sba(iparse2
+Poslanec
+p788
+(dp789
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp790
+sS'k'
+I5987
+sg6
+VJi\u0159í Zemánek
+p791
+sba(iparse2
+Poslanec
+p792
+(dp793
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp794
+sS'k'
+I5989
+sg6
+VVáclav Zemek
+p795
+sba(iparse2
+Poslanec
+p796
+(dp797
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp798
+sS'k'
+I5990
+sg6
+VJana Fischerová
+p799
+sba(iparse2
+Poslanec
+p800
+(dp801
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp802
+sS'k'
+I5991
+sg6
+V
+sba(iparse2
+Poslanec
+p803
+(dp804
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp805
+sS'k'
+I5992
+sg6
+V
+sba(iparse2
+Poslanec
+p806
+(dp807
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp808
+sS'k'
+I5993
+sg6
+VJi\u0159í Rusnok
+p809
+sba(iparse2
+Poslanec
+p810
+(dp811
+g4
+(S'863'
+S'Poslaneck\xc3\xbd klub \xc4\x8cesk\xc3\xa9 strany soci\xc3\xa1ln\xc4\x9b demokratick\xc3\xa9'
+tp812
+sS'k'
+I5999
+sg6
+VMiroslava Strnadlová
+p813
+sba(iparse2
+Poslanec
+p814
+(dp815
+g4
+(S'867'
+S'Poslaneck\xc3\xbd klub V\xc4\x9bci ve\xc5\x99ejn\xc3\xa9'
+tp816
+sS'k'
+I6003
+sg6
+VMiroslav Petrá\u0148
+p817
+sba(iparse2
+Poslanec
+p818
+(dp819
+g4
+(S'864'
+S'Poslaneck\xc3\xbd klub Ob\xc4\x8dansk\xc3\xa9 demokratick\xc3\xa9 strany'
+tp820
+sS'k'
+I6008
+sg6
+VJan Kubata
+p821
+sba.
